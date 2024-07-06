@@ -2,6 +2,9 @@
 
 **A. AWS S3 & Sentiment Analysis.ipynb** 
 
+<img align="right" src="https://github.com/catherman/Data-Science-Miscellaneous/assets/43255276/818bbb6c-8907-4a46-aa48-a37db70d494f"
+alt="Screen Shot 2024-06-15 at 8 12 01 PM" width="200px"/>
+
   1. Objective:  Engineer model for sentiment analysis of product reviews.
      
   1. Data:  Download Amazon Product Reviews from AWS’s Registry of Open Data.
@@ -11,9 +14,15 @@
   3. Visualize sentiment metrics with word cloud, violin plots, & bar charts.
      
   4. Take the first step in Data Lake formation, using AWS Glue & Athena to catalog metadata & query it using Athena. Use Jupyter’s custom magic capabilities/SQL to incorporate Athena’s query abilities.
-![Screen Shot 2024-06-15 at 8 12 01 PM](https://github.com/catherman/Data-Science-Miscellaneous/assets/43255276/818bbb6c-8907-4a46-aa48-a37db70d494f)
+
+<br clear="right"/>
+
+![Screen Shot 2024-06-15 at 8 12 01 PM](
+https://github.com/catherman/Data-Science-Miscellaneous/assets/43255276/818bbb6c-8907-4a46-aa48-a37db70d494f
+)
 
 
+<img src="/path/to/image.png" align="right" width="100px"/>
 
 **B. Basic Plotting with Matplotlib.ipynb**
 

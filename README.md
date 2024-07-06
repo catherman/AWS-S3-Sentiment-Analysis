@@ -2,8 +2,6 @@
 
 **AWS S3 & Sentiment Analysis.ipynb** 
 
-<img align="right" src="https://github.com/catherman/FIRE-II/assets/43255276/37eeb3a9-9a6a-46ff-ae38-106c8f83eb7e" alt="Screen Shot 2024-05-05 at 1 57 02 PM">
-
 <img align="right" src="https://github.com/catherman/Data-Science-Miscellaneous/assets/43255276/818bbb6c-8907-4a46-aa48-a37db70d494f” alt="Screen Shot 2024-06-15 at 8 12 01 PM">
 
   1. Objective:  Engineer model for sentiment analysis of product reviews.

@@ -1,7 +1,9 @@
 # Overview
 
-**AWS S3 & Sentiment Analysis.ipynb**  
+**AWS S3 & Sentiment Analysis.ipynb** 
+
 <img align="right" src="https://github.com/catherman/Data-Science-Miscellaneous/assets/43255276/818bbb6c-8907-4a46-aa48-a37db70d494f”alt="Screen Shot 2024-06-15 at 8 12 01 PM">
+
   1. Objective:  Engineer model for sentiment analysis of product reviews.
      
   1. Data:  Download Amazon Product Reviews from AWS’s Registry of Open Data.
